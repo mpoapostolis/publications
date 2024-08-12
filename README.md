@@ -2,7 +2,6 @@
 
 **Date of Birth:** 12/01/1991  
 **Nationality:** Greek  
-**Phone:** (+30) 6984521403  
 **Email:** [mpoapostolis@gmail.com](mailto:mpoapostolis@gmail.com)  
 **Location:** Athens, Greece  
 **Website:** [GitHub Profile](https://github.com/mpoapostolis)  

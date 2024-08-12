@@ -6,7 +6,7 @@
 **Email:** [mpoapostolis@gmail.com](mailto:mpoapostolis@gmail.com)  
 **Location:** Athens, Greece  
 **Website:** [GitHub Profile](https://github.com/mpoapostolis)  
-**LinkedIn:** [LinkedIn Profile](#) *(add if available)*
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/apostolis-mpostanis-5064267b) 
 
 ---
 

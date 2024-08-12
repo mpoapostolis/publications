@@ -106,10 +106,10 @@ Innovative and results-driven Full Stack Developer and Front-End Team Leader wit
 ## Publications and Recognitions
 
 - **Publication:** Co-authored the paper "Decision Support System and Simulation Component" as part of the H2020 EVOTION project. The paper details the development of a decision support system and simulation component for public health policies.
-  - [Link to Publication](http://h2020evotion.eu/wp-content/uploads/delightful-downloads/2019/09/727521-D5.6-EVOTION-Decision-Support-System-and-Simulation-Component.pdf)
+  - [Link to Publication](https://github.com/mpoapostolis/publications/blob/main/727521-D5.6-EVOTION-Decision-Support-System-and-Simulation-Component.pdf)
 
 - **Publication:** Co-authored "Online Alexithymia Questionnaire For Children With T1 Diabetes - IEEE Engineering in Medicine and Biology – EMBC," focusing on the use of digital tools in healthcare.
-  - [Link to Publication](https://goo.gl/UXdQZK)
+  - [Link to Publication]([https://goo.gl/UXdQZK](https://github.com/mpoapostolis/publications/blob/main/posterPK.pdf))
 
 - **Innovation Awards:** Achieved 3rd place in the Beyond-Hackathon Eurobank 2017 competition, recognized for developing innovative solutions in fintech. This recognition highlights my ability to combine technical expertise with creative problem-solving to deliver impactful solutions.
 

@@ -102,6 +102,17 @@ Innovative and results-driven Full Stack Developer and Front-End Team Leader wit
 
 ---
 
+## Live Coding on YouTube
+
+- **Series:** Creating a Web Game Engine with React, Three.js, Fiber, and TypeScript
+- **Platform:** YouTube
+- **Link:** [Watch the series](https://www.youtube.com/watch?v=8bDr76tIEjk&list=PLRs4HvAKUjxLnaTJn790EuqaRIxIP-Ero)
+- **Highlights:**
+  - Developing a game engine from scratch using modern web technologies.
+  - Demonstrations of practical coding techniques and problem-solving.
+
+---
+
 ## Publications and Recognitions
 
 - **Publication:** Co-authored the paper "Decision Support System and Simulation Component" as part of the H2020 EVOTION project. The paper details the development of a decision support system and simulation component for public health policies.
